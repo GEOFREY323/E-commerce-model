@@ -1,5 +1,4 @@
 # Detect whether a website visitor will complete a purchase
-<a href" https://github.com/GEOFREY323/E-commerce-model.git">
 
 This is an end_to_end project model for  people in the business domain. It is able to detect whether a website visitor will complete a purchase or not by checking his revenue.A KNN(Knearest neighbors) model is trained to determine whether a website visitor will purchase a good or not
 
